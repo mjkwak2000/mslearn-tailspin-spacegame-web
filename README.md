@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mjkwak2000/learnproject/_apis/build/status/mjkwak2000.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/mjkwak2000/learnproject/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
